@@ -1,6 +1,7 @@
 {
   "name": "socket.io",
   "private": true,
+  "version": "5.0.1",
   "workspaces": [
     "packages/socket.io-component-emitter",
     "packages/engine.io-parser",
